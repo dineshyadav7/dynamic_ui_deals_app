@@ -1,0 +1,36 @@
+name: dynamic_ui_deals_app
+description: "A mobile app with dynamic UI feature."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: 
+  flutter_bloc: 
+  firebase_core:
+  cupertino_icons:
+  cloud_firestore: 
+  firebase_storage:
+  animated_snack_bar:
+  cached_network_image:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints:
+  flutter_launcher_icons:
+
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: false
+  remove_alpha_ios: true
+  image_path: "assets/icon/icon.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
