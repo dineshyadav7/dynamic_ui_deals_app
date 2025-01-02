@@ -36,7 +36,7 @@ Before you begin, make sure you have the following:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/dynamic_ui_deals_app.git
+   git clone https://github.com/dineshyadav7/dynamic_ui_deals_app.git
    ```
 
 2. **Navigate to the Project Directory**:
